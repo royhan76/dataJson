@@ -1,0 +1,112 @@
+ "journals": [
+        {
+            "journal_id": "11578",
+            "journal_name": "\"JASc\" JOURNAL AGRIBUSINESS SCIENCES",
+            "journal_abbrev": "JASc",
+            "jtype": "journal",
+            "issn": "",
+            "eissn": "26146037",
+            "pub_id": "217",
+            "publisher": "Universitas Muhammadiyah Sumatera Utara",
+            "created": "2018-08-18 09:43:54"
+        },
+        {
+            "journal_id": "5918",
+            "journal_name": "'ADALAH",
+            "journal_abbrev": "adalah",
+            "jtype": "journal",
+            "issn": "",
+            "eissn": "",
+            "pub_id": "14",
+            "publisher": "Universitas Islam Negeri Syarif Hidayatullah Jakarta",
+            "created": "2014-04-26 09:47:58"
+        },
+        {
+            "journal_id": "14872",
+            "journal_name": "'Anil Islam: Jurnal Kebudayaan dan Ilmu Keislaman",
+            "journal_abbrev": "AnilIslam",
+            "jtype": "journal",
+            "issn": "20854080",
+            "eissn": "25287532",
+            "pub_id": "1298",
+            "publisher": "Institut Ilmu Keislaman Annuqayah Guluk-Guluk Sumenep",
+            "created": "2019-04-23 08:41:17"
+        },
+        {
+            "journal_id": "18319",
+            "journal_name": "'Arabiyya: Jurnal Studi Bahasa Arab",
+            "journal_abbrev": "arabiyya",
+            "jtype": "journal",
+            "issn": "23384964",
+            "eissn": "2615238X",
+            "pub_id": "1008",
+            "publisher": "STAIN Teungku Dirundeng Meulaboh",
+            "created": "2020-06-18 11:03:30"
+        },
+        {
+            "journal_id": "16413",
+            "journal_name": "(JIML) JOURNAL OF INNOVATIVE MATHEMATICS LEARNING",
+            "journal_abbrev": "jiml",
+            "jtype": "journal",
+            "issn": "26214733",
+            "eissn": "26214741",
+            "pub_id": "193",
+            "publisher": "STKIP Siliwangi Bandung",
+            "created": "2019-10-09 10:03:01"
+        },
+        {
+            "journal_id": "17621",
+            "journal_name": "(JOINTS) Journal Orthopaedi and Traumatology Surabaya",
+            "journal_abbrev": "JOINTS",
+            "jtype": "journal",
+            "issn": "",
+            "eissn": "24608742",
+            "pub_id": "42",
+            "publisher": "Universitas Airlangga",
+            "created": "2020-02-27 09:24:50"
+        },
+        {
+            "journal_id": "14785",
+            "journal_name": "(JRAMB) Jurnal Riset Akuntansi Mercu Buana",
+            "journal_abbrev": "akuntansi",
+            "jtype": "journal",
+            "issn": "24601233",
+            "eissn": "25484338",
+            "pub_id": "145",
+            "publisher": "Universitas Mercu Buana",
+            "created": "2019-04-20 09:11:20"
+        },
+        {
+            "journal_id": "17607",
+            "journal_name": "(SYAIKHUNA: Jurnal Pendidikan dan Pranata Islam)",
+            "journal_abbrev": "syaikhuna",
+            "jtype": "journal",
+            "issn": "20869088",
+            "eissn": "26230054",
+            "pub_id": "1772",
+            "publisher": "Sekolah Tinggi Agama Islam Syaichona Cholil Bangkalan",
+            "created": "2020-02-25 08:48:24"
+        },
+        {
+            "journal_id": "14928",
+            "journal_name": "2-TRIK: TUNAS-TUNAS RISET KESEHATAN",
+            "journal_abbrev": "2trik",
+            "jtype": "journal",
+            "issn": "",
+            "eissn": "25485970",
+            "pub_id": "617",
+            "publisher": "Forum Ilmiah Kesehatan",
+            "created": "2019-04-23 12:57:53"
+        },
+        {
+            "journal_id": "15448",
+            "journal_name": "@is The Best [Accounting Information System & Information Technology Business Enterprise]",
+            "journal_abbrev": "aisthebest",
+            "jtype": "journal",
+            "issn": "22529853",
+            "eissn": "2656808X",
+            "pub_id": "116",
+            "publisher": "Universitas Komputer Indonesia",
+            "created": "2019-06-26 08:02:41"
+        }
+    ]
